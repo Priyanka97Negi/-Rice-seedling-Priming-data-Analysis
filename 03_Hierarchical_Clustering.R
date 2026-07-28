@@ -1,35 +1,21 @@
 ###############################################################################
-# Project      : Rice Priming Analysis
+# Project      : Rice Seedling Priming Data Analysis
 # Script       : 03_Hierarchical_Clustering.R
 #
-# Description  :
-# Performs hierarchical cluster analysis of rice genotypes based on
-# seedling growth traits measured at 45 DAS under different priming
-# treatments.
-#
-# Objective
-#   - Calculate genotype-wise mean trait values
-#   - Standardize traits
-#   - Perform hierarchical clustering using Ward's method
-#   - Generate publication-quality dendrogram
-#   - Export cluster membership
-#
-# Input
-#   Data/Exp_6_45DAS_Datasheet.csv
-#
-# Output
-#   Output/Clustering/
-#       ├── Hierarchical_Clustering_Rice_Genotypes.tiff
-#       └── Cluster_Membership.csv
+# Description  : Performs hierarchical cluster analysis of rice genotypes based on seedling growth traits measured at 45 DAS under different priming treatments.
 #
 # Author       : Priyanka Negi
 # Affiliation  : PMRF Fellow | Department of Agricultural Botany (Plant Physiology)
 #                MPKV, Rahuri, Maharashtra, India
 #                ICAR-NIASM, Baramati, Maharashtra, India
 #
+# Input File   : Data/Exp_6_45DAS_Datasheet.csv
 #
-# R Version
-#   4.3+
+# Output Folder : Output/Clustering/
+#       ├── Hierarchical_Clustering_Rice_Genotypes.tiff
+#       └── Cluster_Membership.csv
+
+# R Version: 4.3+
 ###############################################################################
 
 ##############################
