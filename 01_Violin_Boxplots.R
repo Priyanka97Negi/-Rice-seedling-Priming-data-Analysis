@@ -1,6 +1,6 @@
 ###############################################################################
-# Project      : Rice Priming Analysis
-# Script       : 02_Violin_Boxplots.R
+# Project      : Rice Seedling Priming Data Analysis
+# Script       : 01_Violin_Boxplots.R
 # Description  : Generate publication-quality violin and boxplots for
 #                rice seedling traits under different priming treatments.
 #
