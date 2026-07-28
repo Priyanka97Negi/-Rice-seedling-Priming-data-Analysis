@@ -1,19 +1,19 @@
 ###############################################################################
-# Project      : Rice Priming Analysis
+# Project      : Rice Seedling Priming Data Analysis
 # Script       : 05_Correlation_Matrix.R
 #
-# Description  :
-# Computes Pearson correlation coefficients among seedling growth
-# traits and generates a publication-quality correlation matrix.
+# Description  : Computes Pearson correlation coefficients among seedling growth traits and generates a publication-quality correlation matrix.
 #
-# Input
-#   Data/Exp_6_45DAS_Datasheet.csv
+# Author       : Priyanka Negi
+# Affiliation  : PMRF Fellow | Department of Agricultural Botany (Plant Physiology)
+#                MPKV, Rahuri, Maharashtra, India
+#                ICAR-NIASM, Baramati, Maharashtra, India
 #
-# Output
-#   Output/Correlation/Correlation_Matrix.tiff
+# Input File: Data/Exp_6_45DAS_Datasheet.csv
 #
-# Author
-#   Priyanka Negi
+# Output Folder : Output/Correlation/Correlation_Matrix.tiff
+#
+# R Version    : 4.3+
 ###############################################################################
 
 ##############################
