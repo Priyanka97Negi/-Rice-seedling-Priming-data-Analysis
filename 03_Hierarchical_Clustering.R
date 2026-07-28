@@ -11,10 +11,11 @@
 #
 # Input File   : Data/Exp_6_45DAS_Datasheet.csv
 #
-# Output Folder : Output/Clustering/
+# Output
+#   Output/Clustering/
 #       ├── Hierarchical_Clustering_Rice_Genotypes.tiff
 #       └── Cluster_Membership.csv
-
+#
 # R Version: 4.3+
 ###############################################################################
 
