@@ -2,29 +2,18 @@
 # Project      : Rice Seedling Priming Data Analysis
 # Script       : 02_PCA_Biplot.R
 #
-# Description  :
-# Principal Component Analysis (PCA) of rice genotypes
-# evaluated under different seed priming treatments.
-#
-# Objective
-#   - Calculate genotype-wise mean trait values
-#   - Perform Principal Component Analysis (PCA)
-#   - Generate a publication-quality PCA biplot
-#
-# Input
-#   Data/Exp_6_45DAS_Datasheet.csv
-#
-# Output
-#   Output/PCA/PCA_Biplot_Rice_Genotypes.tiff
+# Description  : Principal Component Analysis (PCA) of rice genotypes evaluated under different seed priming treatments.
 #
 # Author       : Priyanka Negi
 # Affiliation  : PMRF Fellow | Department of Agricultural Botany (Plant Physiology)
 #                MPKV, Rahuri, Maharashtra, India
 #                ICAR-NIASM, Baramati, Maharashtra, India
-
 #
-# R Version
-#   4.3+
+# Input File : Data/Exp_6_45DAS_Datasheet.csv
+#
+# Output Folder: Output/PCA/PCA_Biplot_Rice_Genotypes.tiff
+#
+# R Version: 4.3+
 ###############################################################################
 
 ##############################
