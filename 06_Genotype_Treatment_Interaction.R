@@ -1,10 +1,16 @@
 ###############################################################################
-# Project      : Rice Priming Analysis
+# Project      : Rice Seedling Priming Data Analysis
 # Script       : 06_Genotype_Treatment_Interaction.R
 #
-# Description  :
-# Visualizes genotype × treatment interaction
-# for root dry weight.
+# Description  : Visualizes genotype × treatment interaction for root dry weight.
+#
+# Author       : Priyanka Negi
+# Affiliation  : PMRF Fellow | Department of Agricultural Botany (Plant Physiology)
+#                MPKV, Rahuri, Maharashtra, India
+#                ICAR-NIASM, Baramati, Maharashtra, India
+# Input File   : Data/Exp_6_45DAS_Datasheet.csv
+#
+# R Version    : 4.3+
 ###############################################################################
 
 library(tidyverse)
