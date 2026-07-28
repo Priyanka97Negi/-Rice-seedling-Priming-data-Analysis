@@ -11,7 +11,7 @@
 #
 # Input File : Data/Exp_6_45DAS_Datasheet.csv
 #
-# Output Folder: Output/PCA/PCA_Biplot_Rice_Genotypes.tiff
+# Output : Output/PCA/PCA_Biplot_Rice_Genotypes.tiff
 #
 # R Version: 4.3+
 ###############################################################################
